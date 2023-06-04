@@ -1,0 +1,33 @@
+.contentt{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #F7ECDE;
+    /* background-image: url(http://localhost/crud/imgss/space.jpg); */
+}
+
+.abox{
+    text-decoration: none;
+    box-shadow: 23px 18px 32px 16px rgba(164, 153, 153, 0.75);
+    -webkit-box-shadow: 23px 18px 32px 16px rgba(135, 127, 127, 0.75);
+    -moz-box-shadow: 23px 18px 32px 16px rgba(171,14,14,0.75);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 250px;
+    border-radius: 10px solid black;
+    color: purple;
+    background-color: white;
+    /* background-image: url(http://localhost/crud/imgss/space2.jpg); */
+    background: none;
+    cursor: pointer;
+    height: 250px;
+    /* text-shadow: 4px 4px 2px rgba(0,0,0,0.6); */
+
+   
+    
+    /* background-color: #700132; */
+    
+}
