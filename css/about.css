@@ -1,0 +1,20 @@
+body {
+    background-color: lightgrey; 
+   
+  }
+  h2{
+    color:rgb(0, 83, 165);
+  }
+  
+  h3 {
+    color:rgb(0, 83, 165);
+  }
+  
+  h1{
+    text-shadow: 2px 2px 5px red;
+    text-align: center;
+  }
+  p{
+    color: black;
+
+  }

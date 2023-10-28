@@ -1,0 +1,35 @@
+.table {
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    table-layout: fixed;
+  }
+  .table caption {
+    background-color: black;
+    color: white;
+    padding: .25rem;
+  }
+  .table th {
+    background-color: gainsboro;
+    padding: .25rem;
+  }
+  .table td {
+    background-color: whitesmoke;
+    padding: .25rem;
+  }
+  tr:hover {background-color: coral;}
+  th {
+    background-color: #004ead;
+    color: rgb(113, 30, 30);
+  }
+  .table {
+    width: 70%;
+    height: 250px;
+    margin: auto;
+  }
+  table {
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+}
